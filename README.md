@@ -1,7 +1,8 @@
-# Olá! Eu me chamo Jelly. 
-# Seja bem vindo ao meu perfil!
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jellylacerda&show_icons=true&theme=merko)
+<h1 align="center">Olá! Eu me chamo Jelly.</h1>
 
+<h3 align="center"> Seja bem vindo ao meu perfil!</h3>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jellylacerda&show_icons=true&theme=merko) 
 
 ## 🎓 Computer Science 
 ## Moro em São Paulo, capital. 
@@ -11,6 +12,8 @@
 
 ## Redes sociais: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/jellylacerda)
+
+
 
 # Algumas linguagens e ferramentas que trabalho no dia a dia:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white) 
