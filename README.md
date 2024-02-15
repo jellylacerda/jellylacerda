@@ -1,17 +1,17 @@
-<h1 align="center">Olá! Eu me chamo Jelly.</h1>
+# Olá! Eu me chamo Jelly 👋
 
-<h3 align="center"> Seja bem vindo ao meu perfil!</h3>
+## Seja bem vindo ao meu perfil!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jellylacerda&show_icons=true&theme=merko) 
 
 ## 🎓 Computer Science 
 ## Moro em São Paulo, capital. 
 ## Estagiária em DataScience.
-#### Para mais informações sobre o meu currículo, recomendo dar uma olhada no meu [LinkedIn.](www.linkedin.com/in/jellylacerda)
+#### Para mais informações sobre o meu currículo, recomendo dar uma olhada no meu [LinkedIn.](https://www.linkedin.com/in/jellylacerda)
 
 
 ## Redes sociais: 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/jellylacerda)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/jellylacerda)
 
 
 
