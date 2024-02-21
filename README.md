@@ -7,6 +7,7 @@
 ## 🎓 Computer Science 
 ## Moro em São Paulo, capital. 
 ## Estagiária em DataScience.
+
 #### Para mais informações sobre o meu currículo, recomendo dar uma olhada no meu [LinkedIn.](https://www.linkedin.com/in/jellylacerda)
 
 
