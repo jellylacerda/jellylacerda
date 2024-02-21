@@ -1,4 +1,4 @@
-# Olá! Eu me chamo Jelly 👋
+# Oii! Eu me chamo Jelly 👋
 
 ## Seja bem vindo ao meu perfil!
 
