@@ -2,7 +2,7 @@
 
 ## Seja bem vindo ao meu perfil!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jellylacerda&show_icons=true&theme=merko) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jellylacerda&show_icons=true&theme=dark) 
 
 ## 🎓 Computer Science 
 ## Moro em São Paulo, capital. 
@@ -21,5 +21,5 @@
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
-![jellylacerda](https://github-readme-stats.vercel.app/api/top-langs/?username=jellylacerda&layout=compact&theme=tokyonight&show_icons=true)
+![jellylacerda](https://github-readme-stats.vercel.app/api/top-langs/?username=jellylacerda&layout=compact&theme=dark&show_icons=true)
 
